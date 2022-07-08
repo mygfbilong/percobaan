@@ -1,0 +1,7 @@
+body {
+    padding-bottom: 3rem;
+    background-image: url(../img/bg.png);
+    background-size: cover;
+    background-color: #fff;
+    color: #212529;
+}
